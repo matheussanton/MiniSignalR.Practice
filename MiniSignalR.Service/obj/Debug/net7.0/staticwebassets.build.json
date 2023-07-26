@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T2L7pFNt9pLtAxPWhW5sWZI84j+93PEdnll66+GqUFU=",
+  "Source": "MiniSignalR.Service",
+  "BasePath": "_content/MiniSignalR.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
